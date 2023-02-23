@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @Superjomn</h1>
 <h3 align="center">An DL architect in Nvidia</h3>
 
-- 🔭 I’m currently working on [openai/triton](https://github.com/openai/triton)
+- 🔭 My latest opensource forcus is on [openai/triton](https://github.com/openai/triton)
 
 - 📫 How to reach me **yanchunwei [AnT] outlook [Dot] com**
 
